@@ -1,0 +1,14 @@
+C:\Users\Yaman\OneDrive\Desktop\OOP Pillars\Encapsulation\Before\bin\Debug\net8.0\Before.exe
+C:\Users\Yaman\OneDrive\Desktop\OOP Pillars\Encapsulation\Before\bin\Debug\net8.0\Before.deps.json
+C:\Users\Yaman\OneDrive\Desktop\OOP Pillars\Encapsulation\Before\bin\Debug\net8.0\Before.runtimeconfig.json
+C:\Users\Yaman\OneDrive\Desktop\OOP Pillars\Encapsulation\Before\bin\Debug\net8.0\Before.dll
+C:\Users\Yaman\OneDrive\Desktop\OOP Pillars\Encapsulation\Before\bin\Debug\net8.0\Before.pdb
+C:\Users\Yaman\OneDrive\Desktop\OOP Pillars\Encapsulation\Before\obj\Debug\net8.0\Before.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yaman\OneDrive\Desktop\OOP Pillars\Encapsulation\Before\obj\Debug\net8.0\Before.AssemblyInfoInputs.cache
+C:\Users\Yaman\OneDrive\Desktop\OOP Pillars\Encapsulation\Before\obj\Debug\net8.0\Before.AssemblyInfo.cs
+C:\Users\Yaman\OneDrive\Desktop\OOP Pillars\Encapsulation\Before\obj\Debug\net8.0\Before.csproj.CoreCompileInputs.cache
+C:\Users\Yaman\OneDrive\Desktop\OOP Pillars\Encapsulation\Before\obj\Debug\net8.0\Before.dll
+C:\Users\Yaman\OneDrive\Desktop\OOP Pillars\Encapsulation\Before\obj\Debug\net8.0\refint\Before.dll
+C:\Users\Yaman\OneDrive\Desktop\OOP Pillars\Encapsulation\Before\obj\Debug\net8.0\Before.pdb
+C:\Users\Yaman\OneDrive\Desktop\OOP Pillars\Encapsulation\Before\obj\Debug\net8.0\Before.genruntimeconfig.cache
+C:\Users\Yaman\OneDrive\Desktop\OOP Pillars\Encapsulation\Before\obj\Debug\net8.0\ref\Before.dll
