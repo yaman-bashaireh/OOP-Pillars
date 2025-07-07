@@ -1,4 +1,5 @@
 📌 Pillars Covered:
+
 Encapsulation
 
 Wrapping data and methods into a single unit (class) and hiding internal state using access modifiers.
